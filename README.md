@@ -65,12 +65,14 @@ We tackled the **cold start problem** by letting new users select their favorite
 ---
 
 ## Repository Structure
+```text
 ├── Clustering.ipynb                # User clustering based on cuisine preferences
 ├── EDA.ipynb                       # Exploratory Data Analysis of the dataset
-├── RFM Analysis.ipynb              # Customer segmentation using RFM and CLV Analysis
+├── RFM Analysis.ipynb              # Customer segmentation using RFM and CLV analysis
 ├── Recommendation System.ipynb     # Collaborative filtering and hybrid recommender models
 ├── presentation.pdf                # Final presentation slides summarizing the project
 └── README.md                       # Project overview and documentation
+```
 
 ## Team Credits
 Project developed by:
