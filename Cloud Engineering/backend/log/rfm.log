@@ -1,0 +1,40 @@
+2025-05-26 19:53:17,121 - rfm - INFO - RFM module initialized
+2025-05-26 19:53:22,593 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 19:53:23,026 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:53:23,350 - rfm - INFO - Model training complete
+2025-05-26 19:53:23,351 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 19:54:41,309 - rfm - INFO - RFM module initialized
+2025-05-26 19:54:46,387 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 19:54:46,854 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:54:47,023 - rfm - INFO - Model training complete
+2025-05-26 19:54:47,023 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 19:55:39,852 - rfm - INFO - RFM module initialized
+2025-05-26 19:55:45,414 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 19:55:45,861 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:55:46,124 - rfm - INFO - Model training complete
+2025-05-26 19:55:46,124 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 20:04:03,657 - rfm - INFO - RFM module initialized
+2025-05-26 20:11:44,674 - rfm - INFO - RFM module initialized
+2025-05-26 20:12:33,827 - rfm - INFO - RFM module initialized
+2025-05-26 20:16:01,241 - rfm - INFO - RFM module initialized
+2025-05-26 20:25:49,393 - rfm - INFO - RFM module initialized
+2025-05-26 20:27:21,625 - rfm - INFO - RFM module initialized
+2025-05-26 20:27:26,894 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 20:27:27,331 - rfm - INFO - Training RFM clustering model
+2025-05-26 20:27:27,666 - rfm - INFO - Model training complete
+2025-05-26 20:27:27,666 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 20:30:05,831 - rfm - INFO - RFM module initialized
+2025-05-26 20:30:11,998 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 20:30:12,447 - rfm - INFO - Training RFM clustering model
+2025-05-26 20:30:12,788 - rfm - INFO - Model training complete
+2025-05-26 20:30:12,788 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 23:00:32,260 - rfm - INFO - RFM module initialized
+2025-05-26 23:00:37,542 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 23:00:37,975 - rfm - INFO - Training RFM clustering model
+2025-05-26 23:00:38,311 - rfm - INFO - Model training complete
+2025-05-26 23:00:38,311 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 23:02:28,972 - rfm - INFO - RFM module initialized
+2025-05-26 23:02:34,954 - rfm - INFO - Loaded data, shape: (135216, 33)
+2025-05-26 23:02:35,382 - rfm - INFO - Training RFM clustering model
+2025-05-26 23:02:35,584 - rfm - INFO - Model training complete
+2025-05-26 23:02:35,584 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)

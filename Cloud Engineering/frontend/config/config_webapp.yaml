@@ -1,0 +1,13 @@
+bucket_name: ce-raw-datasets
+clustering_key: processed_data/clustering.csv
+recom_data: processed_data/order_clean_join_all.csv
+
+models:
+  Item Based Recommendation:
+    s3_key: recommender_models/item_knn_model.pkl
+  NFM Model:
+    s3_key: recommender_models/nmf_model.pkl
+  SVD Model:
+    s3_key: recommender_models/svd_model.pkl
+  SVD++ Model:
+    s3_key: recommender_models/svdpp_model.pkl

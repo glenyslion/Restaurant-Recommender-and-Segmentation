@@ -1,0 +1,144 @@
+2025-05-26 19:43:54,899 - eda - INFO - EDA module initialized
+2025-05-26 19:43:55,502 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-26 19:43:55,502 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:43:55,767 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:43:55,767 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:43:55,822 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-26 19:43:55,823 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:43:55,873 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:43:55,873 - eda - INFO - EDA process completed successfully
+2025-05-26 19:43:55,875 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-26 19:43:55,875 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:43:55,959 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:43:55,959 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-26 19:43:55,959 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:43:56,012 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:43:56,013 - eda - INFO - EDA process completed successfully
+2025-05-26 19:44:58,168 - eda - INFO - EDA module initialized
+2025-05-26 19:44:58,761 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-26 19:44:58,761 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:44:59,012 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:44:59,013 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:44:59,067 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-26 19:44:59,067 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:44:59,115 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:44:59,116 - eda - INFO - EDA process completed successfully
+2025-05-26 19:44:59,117 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-26 19:44:59,117 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:44:59,186 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:44:59,186 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-26 19:44:59,186 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:44:59,232 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:44:59,233 - eda - INFO - EDA process completed successfully
+2025-05-26 19:46:28,933 - eda - INFO - EDA module initialized
+2025-05-26 19:46:29,500 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-26 19:46:29,500 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:46:29,736 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:46:29,736 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:46:29,790 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-26 19:46:29,790 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:46:29,841 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:46:29,841 - eda - INFO - EDA process completed successfully
+2025-05-26 19:46:29,842 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-26 19:46:29,842 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:46:29,912 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:46:29,912 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-26 19:46:29,912 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:46:29,958 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:46:29,958 - eda - INFO - EDA process completed successfully
+2025-05-26 19:52:02,490 - eda - INFO - EDA module initialized
+2025-05-26 19:52:03,076 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-26 19:52:03,076 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:52:03,348 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:52:03,348 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:52:03,411 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-26 19:52:03,412 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:52:03,462 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:52:03,462 - eda - INFO - EDA process completed successfully
+2025-05-26 19:52:03,465 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-26 19:52:03,466 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:52:03,536 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 19:52:03,536 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-26 19:52:03,536 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:52:03,585 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 19:52:03,585 - eda - INFO - EDA process completed successfully
+2025-05-26 23:56:22,825 - eda - INFO - EDA module initialized
+2025-05-26 23:56:23,458 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-26 23:56:23,458 - eda - INFO - Generating correlation heatmap
+2025-05-26 23:56:23,740 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 23:56:23,740 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 23:56:23,796 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-26 23:56:23,796 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 23:56:23,845 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 23:56:23,845 - eda - INFO - EDA process completed successfully
+2025-05-26 23:56:23,947 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-26 23:56:23,948 - eda - INFO - Generating correlation heatmap
+2025-05-26 23:56:24,018 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 23:56:24,019 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-26 23:56:24,019 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 23:56:24,067 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 23:56:24,067 - eda - INFO - EDA process completed successfully
+2025-05-26 23:59:18,445 - eda - INFO - EDA module initialized
+2025-05-26 23:59:19,021 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-26 23:59:19,022 - eda - INFO - Generating correlation heatmap
+2025-05-26 23:59:19,260 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 23:59:19,260 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 23:59:19,313 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-26 23:59:19,314 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 23:59:19,363 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 23:59:19,363 - eda - INFO - EDA process completed successfully
+2025-05-26 23:59:19,464 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-26 23:59:19,465 - eda - INFO - Generating correlation heatmap
+2025-05-26 23:59:19,536 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-26 23:59:19,536 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-26 23:59:19,536 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 23:59:19,583 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-26 23:59:19,583 - eda - INFO - EDA process completed successfully
+2025-05-27 00:00:34,269 - eda - INFO - EDA module initialized
+2025-05-27 00:00:34,825 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-27 00:00:34,826 - eda - INFO - Generating correlation heatmap
+2025-05-27 00:00:35,081 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-27 00:00:35,081 - eda - INFO - Generating total spend per customer box plot
+2025-05-27 00:00:35,136 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-27 00:00:35,137 - eda - INFO - Generating order counts per customer box plot
+2025-05-27 00:00:35,185 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-27 00:00:35,185 - eda - INFO - EDA process completed successfully
+2025-05-27 00:00:35,288 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-27 00:00:35,288 - eda - INFO - Generating correlation heatmap
+2025-05-27 00:00:35,356 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-27 00:00:35,356 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-27 00:00:35,357 - eda - INFO - Generating order counts per customer box plot
+2025-05-27 00:00:35,403 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-27 00:00:35,403 - eda - INFO - EDA process completed successfully
+2025-05-27 00:01:36,222 - eda - INFO - EDA module initialized
+2025-05-27 00:01:36,816 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-27 00:01:36,817 - eda - INFO - Generating correlation heatmap
+2025-05-27 00:01:37,058 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-27 00:01:37,059 - eda - INFO - Generating total spend per customer box plot
+2025-05-27 00:01:37,114 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-27 00:01:37,114 - eda - INFO - Generating order counts per customer box plot
+2025-05-27 00:01:37,164 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-27 00:01:37,165 - eda - INFO - EDA process completed successfully
+2025-05-27 00:01:37,166 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-27 00:01:37,167 - eda - INFO - Generating correlation heatmap
+2025-05-27 00:01:37,238 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-27 00:01:37,238 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-27 00:01:37,238 - eda - INFO - Generating order counts per customer box plot
+2025-05-27 00:01:37,285 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-27 00:01:37,285 - eda - INFO - EDA process completed successfully
+2025-05-27 00:09:57,227 - eda - INFO - EDA module initialized
+2025-05-27 00:09:57,814 - eda - INFO - Starting EDA with 5 rows of data
+2025-05-27 00:09:57,815 - eda - INFO - Generating correlation heatmap
+2025-05-27 00:09:58,090 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-27 00:09:58,090 - eda - INFO - Generating total spend per customer box plot
+2025-05-27 00:09:58,147 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://test-bucket/test/box_total_spend_per_customer.png
+2025-05-27 00:09:58,147 - eda - INFO - Generating order counts per customer box plot
+2025-05-27 00:09:58,196 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-27 00:09:58,197 - eda - INFO - EDA process completed successfully
+2025-05-27 00:09:58,198 - eda - INFO - Starting EDA with 3 rows of data
+2025-05-27 00:09:58,198 - eda - INFO - Generating correlation heatmap
+2025-05-27 00:09:58,272 - eda - INFO - Uploaded correlation_heatmap.png to s3://test-bucket/test/correlation_heatmap.png
+2025-05-27 00:09:58,272 - eda - WARNING - Required columns 'customer_id' and 'grand_total' not found for spend plot.
+2025-05-27 00:09:58,272 - eda - INFO - Generating order counts per customer box plot
+2025-05-27 00:09:58,318 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://test-bucket/test/box_order_counts_per_customer.png
+2025-05-27 00:09:58,319 - eda - INFO - EDA process completed successfully

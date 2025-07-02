@@ -1,0 +1,90 @@
+2025-05-26 19:53:17,171 - pipeline - INFO - Pipeline initialized
+2025-05-26 19:53:17,177 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 19:53:17,177 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 19:53:20,667 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 19:53:22,577 - pipeline - INFO - EDA upload completed.
+2025-05-26 19:53:25,971 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 19:53:25,998 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 19:53:25,999 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 19:53:27,732 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 19:53:40,060 - pipeline - INFO - All recommender models were successfully uploaded
+2025-05-26 19:54:41,361 - pipeline - INFO - Pipeline initialized
+2025-05-26 19:54:41,366 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 19:54:41,367 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 19:54:44,818 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 19:54:46,371 - pipeline - INFO - EDA upload completed.
+2025-05-26 19:54:49,828 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 19:54:49,858 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 19:54:49,858 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 19:54:51,846 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 19:55:04,586 - pipeline - INFO - All recommender models were successfully uploaded
+2025-05-26 19:55:39,899 - pipeline - INFO - Pipeline initialized
+2025-05-26 19:55:39,905 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 19:55:39,905 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 19:55:43,793 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 19:55:45,398 - pipeline - INFO - EDA upload completed.
+2025-05-26 19:55:48,641 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 19:55:48,668 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 19:55:48,668 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 19:55:50,565 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 19:56:03,493 - pipeline - INFO - All recommender models were successfully uploaded
+2025-05-26 20:04:03,711 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:04:03,716 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:04:03,716 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:04:07,753 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:11:44,727 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:11:44,733 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:11:44,733 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:11:48,335 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:12:33,878 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:12:33,883 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:12:33,883 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:12:37,241 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:16:01,294 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:16:01,300 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:16:01,301 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:16:05,184 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:25:49,445 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:25:49,451 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:25:49,451 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:25:54,188 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:27:21,675 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:27:21,681 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:27:21,681 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:27:25,170 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:27:26,879 - pipeline - INFO - EDA upload completed.
+2025-05-26 20:27:30,330 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 20:27:30,359 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 20:27:30,359 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 20:27:32,163 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 20:27:44,751 - pipeline - INFO - All recommender models were successfully uploaded
+2025-05-26 20:30:05,881 - pipeline - INFO - Pipeline initialized
+2025-05-26 20:30:05,887 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 20:30:05,887 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 20:30:10,358 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 20:30:11,982 - pipeline - INFO - EDA upload completed.
+2025-05-26 20:30:15,467 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 20:30:15,504 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 20:30:15,504 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 20:30:17,280 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 20:48:18,732 - pipeline - INFO - All recommender models were successfully uploaded
+2025-05-26 23:00:32,316 - pipeline - INFO - Pipeline initialized
+2025-05-26 23:00:32,322 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 23:00:32,323 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 23:00:35,865 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 23:00:37,524 - pipeline - INFO - EDA upload completed.
+2025-05-26 23:00:40,973 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 23:00:41,002 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 23:00:41,002 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 23:00:42,918 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 23:00:56,017 - pipeline - INFO - All recommender models were successfully uploaded
+2025-05-26 23:02:29,019 - pipeline - INFO - Pipeline initialized
+2025-05-26 23:02:29,025 - pipeline - INFO - Loaded config from config/config.yaml
+2025-05-26 23:02:29,025 - pipeline - INFO - Step 1: Acquiring data from RDS
+2025-05-26 23:02:32,879 - pipeline - INFO - Step 2: Performing EDA and uploading plots to S3
+2025-05-26 23:02:34,939 - pipeline - INFO - EDA upload completed.
+2025-05-26 23:02:38,183 - pipeline - INFO - Step 3: Merging RFM and FOOD dataframes
+2025-05-26 23:02:38,210 - pipeline - INFO - Merged dataframe shape: (135216, 4)
+2025-05-26 23:02:38,210 - pipeline - INFO - Uploading merged dataframe to S3
+2025-05-26 23:02:41,070 - pipeline - INFO - Step 4: Building and uploading recommender models
+2025-05-26 23:02:54,803 - pipeline - INFO - All recommender models were successfully uploaded

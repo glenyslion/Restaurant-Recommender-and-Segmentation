@@ -1,0 +1,54 @@
+2025-05-26 19:43:55,449 - recommender - INFO - Recommender module initialized
+2025-05-26 19:43:56,208 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:43:56,210 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-26 19:43:56,212 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:43:56,214 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:43:56,214 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-26 19:44:58,715 - recommender - INFO - Recommender module initialized
+2025-05-26 19:44:59,430 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:44:59,432 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-26 19:44:59,434 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:44:59,436 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:44:59,436 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-26 19:46:29,454 - recommender - INFO - Recommender module initialized
+2025-05-26 19:46:30,089 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:46:30,090 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-26 19:46:30,092 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:46:30,094 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:46:30,094 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-26 19:52:03,027 - recommender - INFO - Recommender module initialized
+2025-05-26 19:52:03,737 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:52:03,739 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-26 19:52:03,740 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:52:03,743 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 19:52:03,743 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-26 23:56:23,411 - recommender - INFO - Recommender module initialized
+2025-05-26 23:56:24,300 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 23:56:24,300 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-26 23:56:24,302 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 23:56:24,305 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 23:56:24,305 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-26 23:59:18,974 - recommender - INFO - Recommender module initialized
+2025-05-26 23:59:19,755 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 23:59:19,756 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-26 23:59:19,757 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 23:59:19,760 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-26 23:59:19,760 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-27 00:00:34,780 - recommender - INFO - Recommender module initialized
+2025-05-27 00:00:35,647 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:00:35,648 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-27 00:00:35,649 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:00:35,652 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:00:35,652 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-27 00:01:36,770 - recommender - INFO - Recommender module initialized
+2025-05-27 00:01:37,427 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:01:37,427 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-27 00:01:37,429 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:01:37,431 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:01:37,431 - recommender - INFO - AWS upload disabled, skipping recommender model upload
+2025-05-27 00:09:57,764 - recommender - INFO - Recommender module initialized
+2025-05-27 00:09:58,461 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:09:58,462 - recommender - ERROR - Failed to build model: Unknown model type: invalid_model
+2025-05-27 00:09:58,463 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:09:58,465 - recommender - INFO - Data loaded successfully with 4 rows
+2025-05-27 00:09:58,466 - recommender - INFO - AWS upload disabled, skipping recommender model upload

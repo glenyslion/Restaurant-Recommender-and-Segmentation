@@ -1,0 +1,78 @@
+2025-05-26 19:53:16,687 - eda - INFO - EDA module initialized
+2025-05-26 19:53:20,668 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 19:53:20,842 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:53:22,115 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets2/eda/correlation_heatmap.png
+2025-05-26 19:53:22,116 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:53:22,394 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets2/eda/box_total_spend_per_customer.png
+2025-05-26 19:53:22,394 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:53:22,576 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets2/eda/box_order_counts_per_customer.png
+2025-05-26 19:53:22,576 - eda - INFO - EDA process completed successfully
+2025-05-26 19:54:40,890 - eda - INFO - EDA module initialized
+2025-05-26 19:54:44,818 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 19:54:44,979 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:54:45,905 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets2/eda/correlation_heatmap.png
+2025-05-26 19:54:45,906 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:54:46,188 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets2/eda/box_total_spend_per_customer.png
+2025-05-26 19:54:46,188 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:54:46,370 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets2/eda/box_order_counts_per_customer.png
+2025-05-26 19:54:46,370 - eda - INFO - EDA process completed successfully
+2025-05-26 19:55:39,444 - eda - INFO - EDA module initialized
+2025-05-26 19:55:43,793 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 19:55:43,960 - eda - INFO - Generating correlation heatmap
+2025-05-26 19:55:44,929 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets2/eda/correlation_heatmap.png
+2025-05-26 19:55:44,930 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 19:55:45,209 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets2/eda/box_total_spend_per_customer.png
+2025-05-26 19:55:45,209 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 19:55:45,396 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets2/eda/box_order_counts_per_customer.png
+2025-05-26 19:55:45,397 - eda - INFO - EDA process completed successfully
+2025-05-26 20:04:03,220 - eda - INFO - EDA module initialized
+2025-05-26 20:04:07,753 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:04:07,915 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:11:44,252 - eda - INFO - EDA module initialized
+2025-05-26 20:11:48,335 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:11:48,495 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:12:33,403 - eda - INFO - EDA module initialized
+2025-05-26 20:12:37,241 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:12:37,388 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:16:00,800 - eda - INFO - EDA module initialized
+2025-05-26 20:16:05,184 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:16:05,352 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:25:48,973 - eda - INFO - EDA module initialized
+2025-05-26 20:25:54,188 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:25:54,346 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:27:21,214 - eda - INFO - EDA module initialized
+2025-05-26 20:27:25,170 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:27:25,328 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:27:26,372 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets/eda/correlation_heatmap.png
+2025-05-26 20:27:26,374 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 20:27:26,642 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets/eda/box_total_spend_per_customer.png
+2025-05-26 20:27:26,642 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 20:27:26,878 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets/eda/box_order_counts_per_customer.png
+2025-05-26 20:27:26,878 - eda - INFO - EDA process completed successfully
+2025-05-26 20:30:05,394 - eda - INFO - EDA module initialized
+2025-05-26 20:30:10,358 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 20:30:10,539 - eda - INFO - Generating correlation heatmap
+2025-05-26 20:30:11,505 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets/eda/correlation_heatmap.png
+2025-05-26 20:30:11,506 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 20:30:11,750 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets/eda/box_total_spend_per_customer.png
+2025-05-26 20:30:11,751 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 20:30:11,980 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets/eda/box_order_counts_per_customer.png
+2025-05-26 20:30:11,980 - eda - INFO - EDA process completed successfully
+2025-05-26 23:00:31,760 - eda - INFO - EDA module initialized
+2025-05-26 23:00:35,865 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 23:00:36,022 - eda - INFO - Generating correlation heatmap
+2025-05-26 23:00:37,041 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets/eda/correlation_heatmap.png
+2025-05-26 23:00:37,042 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 23:00:37,258 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets/eda/box_total_spend_per_customer.png
+2025-05-26 23:00:37,258 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 23:00:37,522 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets/eda/box_order_counts_per_customer.png
+2025-05-26 23:00:37,522 - eda - INFO - EDA process completed successfully
+2025-05-26 23:02:28,564 - eda - INFO - EDA module initialized
+2025-05-26 23:02:32,879 - eda - INFO - Starting EDA with 135216 rows of data
+2025-05-26 23:02:33,021 - eda - INFO - Generating correlation heatmap
+2025-05-26 23:02:34,434 - eda - INFO - Uploaded correlation_heatmap.png to s3://ce-raw-datasets/eda/correlation_heatmap.png
+2025-05-26 23:02:34,435 - eda - INFO - Generating total spend per customer box plot
+2025-05-26 23:02:34,663 - eda - INFO - Uploaded box_total_spend_per_customer.png to s3://ce-raw-datasets/eda/box_total_spend_per_customer.png
+2025-05-26 23:02:34,663 - eda - INFO - Generating order counts per customer box plot
+2025-05-26 23:02:34,937 - eda - INFO - Uploaded box_order_counts_per_customer.png to s3://ce-raw-datasets/eda/box_order_counts_per_customer.png
+2025-05-26 23:02:34,938 - eda - INFO - EDA process completed successfully

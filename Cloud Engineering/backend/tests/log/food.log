@@ -1,0 +1,162 @@
+2025-05-26 19:43:55,404 - food - INFO - Food clustering module initialized
+2025-05-26 19:43:56,015 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:43:56,016 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:43:56,017 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 19:43:56,018 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:43:56,020 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:43:56,023 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:43:56,023 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 19:43:56,024 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:43:56,162 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:43:56,165 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:43:56,167 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:43:56,168 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:43:56,170 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:43:56,171 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:43:56,171 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 19:43:56,172 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:43:56,206 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:44:58,674 - food - INFO - Food clustering module initialized
+2025-05-26 19:44:59,235 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:44:59,236 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:44:59,236 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-26 19:44:59,237 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:44:59,239 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:44:59,239 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:44:59,239 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-26 19:44:59,241 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:44:59,379 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:44:59,381 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:44:59,383 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:44:59,384 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:44:59,385 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:44:59,386 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:44:59,386 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-26 19:44:59,388 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:44:59,427 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:46:29,415 - food - INFO - Food clustering module initialized
+2025-05-26 19:46:29,960 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:46:29,961 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:46:29,962 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 19:46:29,963 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:46:29,964 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:46:29,965 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:46:29,965 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 19:46:29,966 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:46:30,031 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:46:30,034 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:46:30,035 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:46:30,037 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:46:30,038 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:46:30,039 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:46:30,039 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 19:46:30,040 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:46:30,086 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:52:02,986 - food - INFO - Food clustering module initialized
+2025-05-26 19:52:03,587 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:52:03,588 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:52:03,588 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-26 19:52:03,590 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:52:03,591 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:52:03,592 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:52:03,592 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-26 19:52:03,594 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:52:03,702 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 19:52:03,705 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:52:03,707 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:52:03,708 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:52:03,709 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:52:03,710 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 19:52:03,710 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-26 19:52:03,711 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 19:52:03,735 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 23:56:23,368 - food - INFO - Food clustering module initialized
+2025-05-26 23:56:24,069 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:56:24,070 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:56:24,070 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 23:56:24,072 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 23:56:24,073 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:56:24,074 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:56:24,074 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 23:56:24,075 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 23:56:24,231 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 23:56:24,233 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:56:24,236 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:56:24,237 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:56:24,238 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:56:24,239 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:56:24,239 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 23:56:24,240 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 23:56:24,297 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 23:59:18,937 - food - INFO - Food clustering module initialized
+2025-05-26 23:59:19,585 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:59:19,586 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:59:19,587 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 23:59:19,588 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 23:59:19,589 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:59:19,590 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:59:19,590 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 23:59:19,591 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 23:59:19,642 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-26 23:59:19,646 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:59:19,647 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:59:19,648 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:59:19,650 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:59:19,651 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-26 23:59:19,651 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-26 23:59:19,652 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-26 23:59:19,753 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-27 00:00:34,745 - food - INFO - Food clustering module initialized
+2025-05-27 00:00:35,405 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:00:35,406 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:00:35,406 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-27 00:00:35,408 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:00:35,409 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:00:35,410 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:00:35,410 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-27 00:00:35,411 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:00:35,554 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-27 00:00:35,557 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:00:35,559 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:00:35,560 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:00:35,561 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:00:35,562 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:00:35,562 - food - WARNING - Missing cuisine tag columns: ['Pizza', 'Pasta']
+2025-05-27 00:00:35,564 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:00:35,645 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-27 00:01:36,731 - food - INFO - Food clustering module initialized
+2025-05-27 00:01:37,288 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:01:37,289 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:01:37,289 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-27 00:01:37,290 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:01:37,292 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:01:37,293 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:01:37,293 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-27 00:01:37,294 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:01:37,403 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-27 00:01:37,406 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:01:37,408 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:01:37,409 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:01:37,411 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:01:37,412 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:01:37,412 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-27 00:01:37,414 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:01:37,424 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-27 00:09:57,725 - food - INFO - Food clustering module initialized
+2025-05-27 00:09:58,321 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:09:58,322 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:09:58,322 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-27 00:09:58,324 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:09:58,326 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:09:58,327 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:09:58,327 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-27 00:09:58,328 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:09:58,400 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}
+2025-05-27 00:09:58,403 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:09:58,405 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:09:58,406 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:09:58,408 - food - INFO - Configuration loaded successfully.
+2025-05-27 00:09:58,408 - food - INFO - Vendor tag data expanded and filtered. Final shape: (5, 4)
+2025-05-27 00:09:58,409 - food - WARNING - Missing cuisine tag columns: ['Pasta', 'Pizza']
+2025-05-27 00:09:58,410 - food - INFO - Cuisine aggregation completed. Shape: (5, 4)
+2025-05-27 00:09:58,459 - food - INFO - KMeans clustering completed. Cluster counts: {'Asian': 3, 'Western': 2}

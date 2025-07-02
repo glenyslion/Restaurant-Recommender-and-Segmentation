@@ -1,0 +1,40 @@
+2025-05-26 19:53:17,130 - food - INFO - Food clustering module initialized
+2025-05-26 19:53:23,441 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:53:25,712 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 19:53:25,826 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 19:53:25,971 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}
+2025-05-26 19:54:41,319 - food - INFO - Food clustering module initialized
+2025-05-26 19:54:47,140 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:54:49,508 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 19:54:49,632 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 19:54:49,827 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}
+2025-05-26 19:55:39,861 - food - INFO - Food clustering module initialized
+2025-05-26 19:55:46,215 - food - INFO - Configuration loaded successfully.
+2025-05-26 19:55:48,397 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 19:55:48,511 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 19:55:48,641 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}
+2025-05-26 20:04:03,666 - food - INFO - Food clustering module initialized
+2025-05-26 20:11:44,683 - food - INFO - Food clustering module initialized
+2025-05-26 20:12:33,836 - food - INFO - Food clustering module initialized
+2025-05-26 20:16:01,250 - food - INFO - Food clustering module initialized
+2025-05-26 20:25:49,403 - food - INFO - Food clustering module initialized
+2025-05-26 20:27:21,635 - food - INFO - Food clustering module initialized
+2025-05-26 20:27:27,757 - food - INFO - Configuration loaded successfully.
+2025-05-26 20:27:30,086 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 20:27:30,209 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 20:27:30,329 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}
+2025-05-26 20:30:05,840 - food - INFO - Food clustering module initialized
+2025-05-26 20:30:12,883 - food - INFO - Configuration loaded successfully.
+2025-05-26 20:30:15,195 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 20:30:15,314 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 20:30:15,467 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}
+2025-05-26 23:00:32,270 - food - INFO - Food clustering module initialized
+2025-05-26 23:00:38,411 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:00:40,662 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 23:00:40,780 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 23:00:40,973 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}
+2025-05-26 23:02:28,982 - food - INFO - Food clustering module initialized
+2025-05-26 23:02:35,687 - food - INFO - Configuration loaded successfully.
+2025-05-26 23:02:37,935 - food - INFO - Vendor tag data expanded and filtered. Final shape: (135216, 69)
+2025-05-26 23:02:38,048 - food - INFO - Cuisine aggregation completed. Shape: (135216, 12)
+2025-05-26 23:02:38,182 - food - INFO - KMeans clustering completed. Cluster counts: {'Western': 65386, 'Asian': 44362, 'Arabic': 25468}

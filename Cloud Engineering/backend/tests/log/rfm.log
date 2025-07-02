@@ -1,0 +1,90 @@
+2025-05-26 19:43:55,453 - rfm - INFO - RFM module initialized
+2025-05-26 19:43:56,217 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:43:56,219 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:43:56,224 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:43:56,225 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:43:56,244 - rfm - INFO - Model training complete
+2025-05-26 19:43:56,244 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 19:43:56,253 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:43:56,254 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:43:56,326 - rfm - INFO - Model training complete
+2025-05-26 19:44:58,717 - rfm - INFO - RFM module initialized
+2025-05-26 19:44:59,439 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:44:59,441 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:44:59,445 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:44:59,447 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:44:59,480 - rfm - INFO - Model training complete
+2025-05-26 19:44:59,480 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 19:44:59,488 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:44:59,489 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:44:59,546 - rfm - INFO - Model training complete
+2025-05-26 19:46:29,457 - rfm - INFO - RFM module initialized
+2025-05-26 19:46:30,097 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:46:30,100 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:46:30,104 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:46:30,105 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:46:30,119 - rfm - INFO - Model training complete
+2025-05-26 19:46:30,119 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 19:46:30,127 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:46:30,129 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:46:30,150 - rfm - INFO - Model training complete
+2025-05-26 19:52:03,030 - rfm - INFO - RFM module initialized
+2025-05-26 19:52:03,746 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:52:03,748 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:52:03,752 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:52:03,754 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:52:03,759 - rfm - INFO - Model training complete
+2025-05-26 19:52:03,759 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 19:52:03,768 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 19:52:03,771 - rfm - INFO - Training RFM clustering model
+2025-05-26 19:52:03,773 - rfm - INFO - Model training complete
+2025-05-26 23:56:23,413 - rfm - INFO - RFM module initialized
+2025-05-26 23:56:24,309 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:56:24,311 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:56:24,316 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:56:24,317 - rfm - INFO - Training RFM clustering model
+2025-05-26 23:56:24,411 - rfm - INFO - Model training complete
+2025-05-26 23:56:24,411 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 23:56:24,423 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:56:24,424 - rfm - INFO - Training RFM clustering model
+2025-05-26 23:56:24,426 - rfm - INFO - Model training complete
+2025-05-26 23:59:18,977 - rfm - INFO - RFM module initialized
+2025-05-26 23:59:19,763 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:59:19,765 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:59:19,769 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:59:19,771 - rfm - INFO - Training RFM clustering model
+2025-05-26 23:59:19,834 - rfm - INFO - Model training complete
+2025-05-26 23:59:19,834 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-26 23:59:19,842 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-26 23:59:19,844 - rfm - INFO - Training RFM clustering model
+2025-05-26 23:59:19,904 - rfm - INFO - Model training complete
+2025-05-27 00:00:34,782 - rfm - INFO - RFM module initialized
+2025-05-27 00:00:35,655 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:00:35,657 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:00:35,661 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:00:35,662 - rfm - INFO - Training RFM clustering model
+2025-05-27 00:00:35,682 - rfm - INFO - Model training complete
+2025-05-27 00:00:35,682 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-27 00:00:35,691 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:00:35,692 - rfm - INFO - Training RFM clustering model
+2025-05-27 00:00:35,718 - rfm - INFO - Model training complete
+2025-05-27 00:01:36,772 - rfm - INFO - RFM module initialized
+2025-05-27 00:01:37,434 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:01:37,437 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:01:37,441 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:01:37,443 - rfm - INFO - Training RFM clustering model
+2025-05-27 00:01:37,475 - rfm - INFO - Model training complete
+2025-05-27 00:01:37,475 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-27 00:01:37,483 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:01:37,485 - rfm - INFO - Training RFM clustering model
+2025-05-27 00:01:37,517 - rfm - INFO - Model training complete
+2025-05-27 00:09:57,768 - rfm - INFO - RFM module initialized
+2025-05-27 00:09:58,468 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:09:58,470 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:09:58,474 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:09:58,476 - rfm - INFO - Training RFM clustering model
+2025-05-27 00:09:58,563 - rfm - INFO - Model training complete
+2025-05-27 00:09:58,563 - rfm - INFO - Calculating Customer Lifetime Value (CLV_30)
+2025-05-27 00:09:58,572 - rfm - INFO - Loaded data, shape: (5, 4)
+2025-05-27 00:09:58,573 - rfm - INFO - Training RFM clustering model
+2025-05-27 00:09:58,602 - rfm - INFO - Model training complete

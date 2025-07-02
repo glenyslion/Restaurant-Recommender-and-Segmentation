@@ -1,0 +1,153 @@
+database:
+  host: ce-project-db.c8psw0yyy03f.us-east-1.rds.amazonaws.com
+  port: 5432
+  name: cloud_project_db
+  user: ce_admin
+  password: MyDb2025!
+
+models:
+  svd:
+    n_factors: 100
+    n_epochs: 20
+    lr_all: 0.005
+    reg_all: 0.1
+  nmf:
+    n_factors: 50
+    n_epochs: 15
+    reg_pu: 0.1
+    reg_qi: 0.1
+  svdpp:
+    n_factors: 20
+    n_epochs: 10
+    lr_all: 0.002
+    reg_all: 0.05
+  user_knn:
+    sim_options:
+      k: 200
+      min_k: 20
+      name: pearson
+      user_based: true
+  item_knn:
+    sim_options:
+      k: 30
+      min_k: 10
+      name: cosine
+      user_based: false
+
+rfm:
+  snapshot_date: "2023-12-31"
+  n_clusters: 4
+  random_state: 123
+  cluster_mapping:
+      0: "regular_user"
+      1: "churn_user"
+      2: "super_user"
+      3: "lost_user"
+
+food:
+  columns:
+    - customer_id
+    - American
+    - Arabic
+    - Asian
+    - Bagels
+    - Biryani
+    - Breakfast
+    - Burgers
+    - Cafe
+    - Cakes
+    - Chinese
+    - Churros
+    - Coffee
+    - Combos
+    - Crepes
+    - Desserts
+    - Dimsum
+    - Donuts
+    - Family Meal
+    - Fatayers
+    - Free Delivery
+    - Fresh Juices
+    - Fries
+    - Frozen yoghurt
+    - Grills
+    - Healthy Food
+    - Hot Chocolate
+    - Hot Dogs
+    - Ice creams
+    - Indian
+    - Italian
+    - Japanese
+    - Karak
+    - Kebabs
+    - Kids meal
+    - Kushari
+    - Lebanese
+    - Manakeesh
+    - Mandazi
+    - Mexican
+    - Milkshakes
+    - Mishkak
+    - Mojitos
+    - Mojitos 
+    - Omani
+    - Organic
+    - Pancakes
+    - Pasta
+    - Pastas
+    - Pastry
+    - Pizza
+    - Pizzas
+    - Rice
+    - Rolls
+    - Salads
+    - Sandwiches
+    - Seafood
+    - Shawarma
+    - Shuwa
+    - Smoothies
+    - Soups
+    - Spanish Latte
+    - Steaks
+    - Sushi
+    - Sweets
+    - Thai
+    - Thali
+    - Vegetarian
+    - Waffles
+  food_mapping:
+    American: [American, Bagels, Burgers, Fries, Grills, Hot Dogs, Rolls, Steaks]
+    Arabic: [Arabic, Fatayers, Kebabs, Kushari, Lebanese, Manakeesh, Mandazi, Omani, Shawarma, Shuwa]
+    Asian: [Asian, Biryani, Chinese, Dimsum, Indian, Japanese, Rice, Sushi, Thai, Thali]
+    Desserts: [Cakes, Crepes, Desserts, Frozen yoghurt, Ice creams, Pastry, Sweets]
+    Snacks: [Churros, Donuts, Mishkak]
+    Drinks: [Coffee, Fresh Juices, Hot Chocolate, Karak, Milkshakes, Mojitos, Spanish Latte]
+    Health: [Healthy Food, Organic, Salads, Sandwiches, Smoothies, Soups, Vegetarian]
+    Italian: [Italian, Pasta, Pastas, Pizza, Pizzas]
+    Mexican: [Mexican]
+    Seafood: [Seafood]
+    Breakfast: [Breakfast, Pancakes, Waffles]
+  num_clusters: 3
+  random_state: 123
+  cluster_mapping:
+    0: Western
+    1: Asian
+    2: Arabic
+
+aws_eda:
+  upload: TRUE
+  bucket_name: ce-raw-datasets
+  region: us-east-1
+  prefix: eda/
+
+aws_clustering:
+  upload: TRUE
+  bucket_name: ce-raw-datasets
+  region: us-east-1
+  prefix: processed_data/
+
+aws_rs:
+  upload: TRUE
+  bucket_name: ce-raw-datasets
+  region: us-east-1
+  prefix: recommender_models/
